@@ -1,0 +1,1 @@
+# Informetarea5
