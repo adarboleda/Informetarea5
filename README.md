@@ -148,6 +148,14 @@ V3 = 5.6(-0.0587)
 
 ![image](https://user-images.githubusercontent.com/93734334/148150620-d6bb8ee1-bdb0-42a0-86bc-5783cbd3c909.png)
 
+* Usando la ley de ohm para encontrar el voltaje
+
+V = I/R
+
+V = 100/68
+
+**V = -1.84V**
+
 **SECCIÓN 9–3 Método de la corriente en lazos**
 
 17. Con el método de la corriente en lazos, determine las corrientes en los lazos que aparecen en la figura 9-28.
