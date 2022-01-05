@@ -77,6 +77,9 @@ I1= 13/35
 
 ![image](https://user-images.githubusercontent.com/93734334/148296295-de84c517-acf2-42a8-8a55-e43ec50729ea.png)
 
+![image](https://user-images.githubusercontent.com/93734334/148296765-82f21e5b-cdc3-4576-ae70-2fbdd52b8157.png)
+
+
 9. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.
 
 **SECCIÓN 9–2 Método de la corriente en ramas**
