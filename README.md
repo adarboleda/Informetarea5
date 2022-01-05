@@ -75,6 +75,7 @@ I1= 13/35
 
 ![image](https://user-images.githubusercontent.com/93734334/148295743-775a4a28-9e3a-4e7d-8e87-db1bb5a85097.png)
 
+![image](https://user-images.githubusercontent.com/93734334/148296295-de84c517-acf2-42a8-8a55-e43ec50729ea.png)
 
 9. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.
 
