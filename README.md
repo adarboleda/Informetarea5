@@ -83,6 +83,18 @@ I1= 13/35
 
 9. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.
 
+* Uasndo una calculadora virtual
+
+![image](https://user-images.githubusercontent.com/93734334/148297537-6a1ee504-7546-4971-86ad-f9bb91035530.png)
+
+![image](https://user-images.githubusercontent.com/93734334/148297572-57008977-4c15-4a25-8b6b-1b22ffa7fb30.png)
+
+* Por lo tanto
+
+**I1 = 13/35 = 0.371A = 371mA**
+
+**I2 = -1/7 = 0.143A = 143mA**
+
 **SECCIÓN 9–2 Método de la corriente en ramas**
 
 11. Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A
