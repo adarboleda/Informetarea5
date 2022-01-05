@@ -102,6 +102,10 @@ en la figura 9-26.
 
 ![image](https://user-images.githubusercontent.com/93734334/148150521-a9b7d19e-2bb0-4a21-a5f5-3d73020f4514.png)
 
+* Respuesta
+
+**I1 - I2 - I3 = 0**
+
 13. Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26 e indique
 la polaridad real.
 
