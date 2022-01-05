@@ -48,7 +48,15 @@ I1= 13/35
 3. Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:
 
 ![image](https://user-images.githubusercontent.com/93734334/148150342-c765d684-c969-43f1-b26e-3046ccbd8d61.png)
- 
+
+![image](https://user-images.githubusercontent.com/93734334/148291021-477256b1-dd51-447b-97c9-16f063fba9db.png)
+
+* Respuesta
+
+**I1 = 0A**
+
+**I2 = 2A**
+
 5. Evalúe cada uno de los determinantes:
 
 ![image](https://user-images.githubusercontent.com/93734334/148150288-141106d1-0220-42d1-9bb8-1fced0f4f01d.png)
