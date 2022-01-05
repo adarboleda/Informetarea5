@@ -162,6 +162,32 @@ V = 100/68
 
 ![image](https://user-images.githubusercontent.com/93734334/148150684-2d5cf762-7dbd-4cd5-a77c-a7cfe1561b92.png)
 
+* Ecuaciones
+
+* Ecuación 1
+
+1000I1 + 560I1 - 560I2 = -6
+
+1560I1 - 560I2 = -6
+
+* Ecuación 2
+
+560I2 -560I1 +820I2 = -2
+
+-560I1 + 1380I2 = -2
+
+* Utilizando una calculadora de sistemas de ecuaciones para halla I1, I2
+
+![image](https://user-images.githubusercontent.com/93734334/148306091-0a7c0e4a-6468-4a58-adc2-1a7db685b3f9.png)
+
+![image](https://user-images.githubusercontent.com/93734334/148306108-da34773b-ac17-4a96-9e90-07eefb26e7f6.png)
+
+* Por lo tanto se si tiene que 
+
+**I1 = -511mA**
+
+**I2 = -3.52mA**
+
 4. VIDEO
 
 5. CONCLUSIONES
