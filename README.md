@@ -51,6 +51,14 @@ I1= 13/35
 
 ![image](https://user-images.githubusercontent.com/93734334/148291021-477256b1-dd51-447b-97c9-16f063fba9db.png)
 
+**(a)**
+
+![image](https://user-images.githubusercontent.com/93734334/148294119-c4cb4c26-b5e0-43a8-8554-340c32c4cc30.png)
+
+**(b)**
+
+![image](https://user-images.githubusercontent.com/93734334/148294916-affd3b7d-77f6-4bda-9472-c1f3d9f67efa.png)
+
 * Respuesta
 
 **I1 = 0A**
