@@ -26,6 +26,24 @@ Objetivo Específico
 1. Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2
 
 ![image](https://user-images.githubusercontent.com/93734334/148150320-2357822f-134b-4912-a53b-2a93fba4fcbc.png)
+
+I1 = 3/10 - 1/2I2
+
+* Sustituyendo en la segunda ecuación
+
+75( 3/10 - 1/2) + 90I2 = 15                                                                                                                                                       
+I2=-1/7
+
+* Sustituyendo en la primera ecuación
+
+I1 = 3/10 - 1/2(-1/7)                                                                                                                                                             
+I1= 13/35
+
+* Respuesta
+
+**I1 = 13/35 = 0.371A = 371mA**
+
+**I2 = -1/7 = 0.143A = 143mA**
  
 3. Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:
 
