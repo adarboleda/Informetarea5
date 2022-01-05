@@ -111,6 +111,39 @@ la polaridad real.
 
 ![image](https://user-images.githubusercontent.com/93734334/148150521-a9b7d19e-2bb0-4a21-a5f5-3d73020f4514.png)
 
+* Ecuación
+
+R1I1 + R2I2 - Vs1 = 0                                                                                                                                                             
+R2I2 + R3I3 - Vs2 = 0                                                                                                                                                             
+I1 - I2 + I3 = 0
+
+* Reemplazando
+
+8.2I1 + 10I2 = 12                                                                                                                                                                 
+10I2 + 5.6I3 = 6                                                                                                                                                                 
+I1 - I2 + I3 = 0
+
+* Usando una calculadora en linea para calular I1, I2, I3
+
+![image](https://user-images.githubusercontent.com/93734334/148299345-37a8fa14-cbbb-435f-b48a-19aa4a858786.png)
+
+![image](https://user-images.githubusercontent.com/93734334/148299367-3d89d329-88d2-4223-8576-fea259b96b45.png)
+
+I1 = 0.692                                                                                                                                                                       
+I3 = 0.6329                                                                                                                                                                       
+I4 = -0.0587
+
+* Usando la ley de ohm para encontrar los voltajes V = IR
+
+V1 = 8.2(0.692)                                                                                                                                                                   
+**V1 = 5.66V**
+
+V2 = 10(0.6329)                                                                                                                                                                   
+**V2 = 6.33V**
+
+V3 = 5.6(-0.0587)                                                                                                                                                                 
+**V3 = 325mV**
+
 15. En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B).
 
 ![image](https://user-images.githubusercontent.com/93734334/148150620-d6bb8ee1-bdb0-42a0-86bc-5783cbd3c909.png)
