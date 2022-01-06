@@ -287,6 +287,43 @@ Respuesta:
 
 ![imagen](https://user-images.githubusercontent.com/93879569/148350505-24a2738a-3cc2-4dcb-ba93-df048c0fd455.png)
 
+Utilizamos la ley de voltajes de Kirchhoff
+
+∑▒V_s =∑▒V_x 
+
+Siendo Vx = I * Rx
+
+Entonces 
+
+∑▒V_s =∑▒〖I*V_x 〗
+
+Desarrollo
+8V=10Ω I1+4.7Ω I1+2.2Ω I1-4.7ΩI2-2.2ΩI2
+
+8V=16.9Ω I1-6.9 Ω I2
+
+0V=-4.7Ω I1-2.2Ω I1+4.7ΩI2+2.2ΩI2+8.2 ΩI2+3.9 ΩI2
+
+0V=-6.9 Ω I1+19 ΩI2
+
+![imagen](https://user-images.githubusercontent.com/93879569/148394239-fe958c6a-529e-490e-962a-80fa65e8fafc.png)
+
+![imagen](https://user-images.githubusercontent.com/93879569/148394285-455b63c7-4f58-41df-8756-9dbf4d51c369.png)
+
+I1 = 0.56 A
+
+I2 = 0.202 A
+
+En el nodo A
+
+**VA = 0.0202 A * (4.7Ω+2.2Ω)
+
+VA = 0.139 V
+
+VB = 0.0202 A *(8.2 Ω+ 3.9 Ω)
+
+**VB = 0.24 V
+
 25. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.
 
 ![imagen](https://user-images.githubusercontent.com/93879569/148350544-4813fdc4-ee98-490c-b7db-f780484d630c.png)
@@ -413,6 +450,8 @@ Entonces
 31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.
 
 ![imagen](https://user-images.githubusercontent.com/93879569/148351091-19afbdf4-2544-4ddd-95c3-b011f5fbeb51.png)
+
+
 
 SECCIÓN 10–1 El campo magnético
 
