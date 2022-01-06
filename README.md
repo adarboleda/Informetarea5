@@ -192,6 +192,10 @@ V = 100/68
 
 5. CONCLUSIONES
 
+* Como conclusión se tiene que las ecuaciones simultáneas se componen de un conjunto de n ecuaciones que contiene n incógnitas, donde n es un número con un valor de 2 o más. Es importante que el número de ecuaciones incluidas en el conjunto sean igual al número de incógnitas. Cabe recalcar que se puede solucionar por sustitución, determinantes o mediante calculadora.
+
+* Tambien se tiene que el método de la corriente en ramas es un método que permite determinar la corriente que circula en cada rama de un circuito generando ecuaciones simultáneas, y cuando se conozcan las corrientes presentes en las ramas, se pueden determinar los voltajes.
+
 6. BIBLIOGRAFÍA
 
 Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
