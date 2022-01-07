@@ -493,7 +493,7 @@ SECCIÓN 10–2 Electromagnetismo
 
 7. ¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de 750 x 10^-6 Wb/At·m?
 
-![image](https://user-images.githubusercontent.com/93733175/148500590-b7418366-5240-442e-8df7-1e0a42c4fc42.png)
+![image](https://user-images.githubusercontent.com/93733175/148508165-d7a16c0a-bbca-4eac-94a9-2629d2a2f299.png)
 
 9. ¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3 A de corriente a través de él?
 
