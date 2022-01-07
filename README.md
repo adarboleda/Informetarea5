@@ -456,6 +456,73 @@ Entonces
 
 ![imagen](https://user-images.githubusercontent.com/93879569/148351091-19afbdf4-2544-4ddd-95c3-b011f5fbeb51.png)
 
+Utilizar la ley de la corriente de Kirchhoff
+
+∑▒Ixsalida=∑▒Ixentrada
+
+Siendo Ix = Vs/Rx
+
+Desarrollo
+
+Habrá tres ecuaciones ya que exitsen 3 nodos deconocidos 
+
+Nodo A
+
+(20-VA)/(10 000 Ω)=(VA+5.25V)/(8 000 Ω)+(VA-VB)/(12 000 Ω)
+
+(-VA)/(10 000 Ω)+(-VA)/(8 000 Ω)+(-VA)/(12 000 Ω)=5.25V/(8 000 Ω)+VB/(12 000 Ω)+(-20V)/(10 000 Ω)
+
+(37 00)/(12  Ω) VA+VB/(12 000 Ω)=(43 000V)/32Ω
+
+Nodo B
+
+VB/(4 000 Ω)=(VA-VB)/(12 000 Ω)+(VC+5.25 V)/(6 000 Ω)
+
+VB/(10 000 Ω)+VB/(12 000 Ω)=VA/(12 000 Ω)+VC/(6 000 Ω)+5.25V/(6 000 Ω)
+
+1100/(6 Ω) VB-VA/(12 000 Ω)-VC/(6 000 Ω)=5.25V/6000Ω
+
+
+Nodo C
+
+VC/(2 000 Ω)=(VC-VB)/(6 000 Ω)+(5.25V-VC)/(20 000 Ω)
+
+VC/(2 000 Ω)-VC/(6 000 Ω)+VC/(20 000 Ω)=(-VB)/(6 000 Ω)+(-5.25V)/(20 000 Ω)
+
+(17 00)/(6 Ω) VC-VB/(12 000 Ω)=+5.25V/(20 000Ω)
+
+![imagen](https://user-images.githubusercontent.com/93879569/148559505-d5dd625d-0515-4b69-93a2-ceedccc83709.png)
+
+![imagen](https://user-images.githubusercontent.com/93879569/148559585-22c5ebc9-9cbb-4f13-8393-1d1546dc8351.png)
+
+**VA = 4.35 V
+
+**VB = 0.000006754 V
+
+**VC = 0.000000926 V
+
+Nodo A
+**I1=  (20-4.35V)/10000=0.001565 A
+
+**I2=  (5.25V+4.35V)/8000= 0.0012A
+
+**I3=  (4.35V-0.000006754V)/12000=0.001565 A
+
+Nodo B
+**I1=0.000006754V/4000=0.000000002 A
+
+**I2= I3 del nodo A
+
+**I3=(0.00000096V+5.25V)/20000=0.0002625 A
+
+Nodo C
+
+**I1=0.00000096V/2000=0.00000034 A
+
+**I2=(0.00000096V-0.000006754)/(6 000 Ω)=-0.00000001 A
+
+**I3=(5.25V-0.00000096V)/(20 000 Ω)=0.0002625 A
+
 SECCIÓN 10–1 El campo magnético
 
 1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
