@@ -32,7 +32,7 @@ Objetivo Específico
 ![image](https://user-images.githubusercontent.com/93733175/148488302-76fdcd47-1475-4c39-af67-e8064b1c0f65.png)
 
 ![0001](https://user-images.githubusercontent.com/93733175/148489379-be1dd874-39e9-4f3d-88cc-aee16178e41e.jpg)
-![0002](https://user-images.githubusercontent.com/93733175/148489398-81306027-c718-4e36-8794-84ad7c21a916.jpg)
+![0002](https://user-images.githubusercontent.com/93733175/148489649-f478484d-330d-4bc0-a2ae-be5f34081c73.jpg)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
