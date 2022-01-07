@@ -424,7 +424,6 @@ Utilizar la ley de la corriente de Kirchhoff
 
 Siendo Ix = Vs/Rx
 
-
 Desarrollo
 
 Habrá dos ecuaciones debido a que existen dos nodos
@@ -457,8 +456,6 @@ Entonces
 
 ![imagen](https://user-images.githubusercontent.com/93879569/148351091-19afbdf4-2544-4ddd-95c3-b011f5fbeb51.png)
 
-
-
 SECCIÓN 10–1 El campo magnético
 
 1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
@@ -488,6 +485,101 @@ Transformamos el área a metros
 
 **Φ=375*10^6  Wb
 
+5. Un imán permanente muy fuerte tiene un campo magnético de 100,000 µT. Exprese esta densidad de flujo en gauss.
+
+![image](https://user-images.githubusercontent.com/93733175/148500550-62289afb-57dd-44d5-ae45-b0a28b2772a4.png)
+
+SECCIÓN 10–2 Electromagnetismo
+
+7. ¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de 750 x 10^-6 Wb/At·m?
+
+![image](https://user-images.githubusercontent.com/93733175/148500590-b7418366-5240-442e-8df7-1e0a42c4fc42.png)
+
+9. ¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3 A de corriente a través de él?
+
+![image](https://user-images.githubusercontent.com/93733175/148500617-8036285c-d93a-4a88-8371-bb220c69953c.png)
+
+SECCIÓN 10–3 Dispositivos electromagnéticos
+
+11. (a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide?
+
+El embolo es una pieza de una bomba o del cilindro de un motor que se mueve hacia arriba o hacia abajo impulsando un fluido o bien recibiendo el impulso de él. Al activa un Solenoide que es para una bobina de alambre utilizada como un electroimán. La fuerza que hace mover el embolo es la fuerza del campo electromagnético.
+
+**Respuesta:**
+
+Campo electromagnético
+
+ (b) ¿Qué fuerza hace que el émbolo de imán regrese a su posición de reposo?
+ 
+Como el embolo se mueve hacia arriba o hacia abajo la fuerza que hace que ingrese a su posición de reposo es la fuerza del resorte.
+
+**Respuesta:**
+
+Resorte
+
+13. ¿Qué ocasiona que la aguja instalada en un movimiento de d’Arsonval se deflexione cuando circula corriente a través de la bobina?
+
+![image](https://user-images.githubusercontent.com/93733175/148500873-ea6f6658-5eda-41eb-a1a8-eb99bd5f63c4.png)
+
+**Respuesta:**
+
+Fuerzas producidas por la interacción del campo electromagnético y el campo magnético permanente
+
+SECCIÓN 10–4 Histéresis magnética
+
+15. ¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del núcleo?
+
+![image](https://user-images.githubusercontent.com/93733175/148500931-81d56cd2-69c2-40b6-9512-713ebe82080a.png)
+
+**Respuesta:**
+
+Cambiando la corriente
+
+17. Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentividad?
+
+![image](https://user-images.githubusercontent.com/93733175/148500999-c1ddecb2-512f-435e-9554-3db98a3c2caa.png)
+
+**Respuesta:**
+
+La retentividad de un material representa el flujo máximo que puede ser retenido después de que el material ha sido magnetizado hasta la saturación y se indica mediante la relación de Br a Bsat
+
+De este modo en la imagen el material que tiene más retentividad es el Materia A. 
+
+SECCIÓN 10–5 Inducción electromagnética
+
+19. ¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular al campo magnético?
+
+**Respuesta:**
+
+La intensidad del campo magnético
+
+La longitud del conductor expuesta al campo
+
+La velocidad de rotación del conductor
+
+21. ¿Cómo complementa la ley de Lenz a la ley de Faraday?
+
+**Respuesta:**
+
+La ley de Faraday establece que un campo magnético cambiante induce un voltaje en una bobina que es directamente proporcional a la velocidad de cambio del campo magnético y al número de vueltas que haya en la bobina. La ley de Lenz hace referencia a la dirección fluye la corriente, y establece que la dirección siempre es tal que se opone al cambio de flujo que la produce.
+
+De este modo la ley de Lenz complementa a la ley de Faraday definiendo la polaridad del voltaje inducido.
+
+SECCIÓN 10–6 Aplicaciones de la inducción electromagnética
+
+23. Explique el propósito del conmutador y de las escobillas en la figura 10-35.
+
+![image](https://user-images.githubusercontent.com/93733175/148501298-4eee4ea9-00c6-47b5-afc8-4dc3992aab0a.png)
+
+**Respuesta:**
+
+El ensamble de conmutador y escobillas conecta eléctricamente la espira al circuito externo.
+
+Puesto que el conmutador proporcionar una conexión eléctrica entre las escobillas presentes y la escobilla se trata de elementos cuya finalidad es realizar la presión necesaria.
+
+25. Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V el voltaje máximo.
+
+![image](https://user-images.githubusercontent.com/93733175/148501352-80deac92-a333-42fe-ae57-647ae8b4b661.png)
 
 4. VIDEO
 
