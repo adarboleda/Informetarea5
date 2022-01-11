@@ -648,7 +648,6 @@ Puesto que el conmutador proporcionar una conexión eléctrica entre las escobil
 
 ![image](https://user-images.githubusercontent.com/93733175/148872507-77641f84-1f44-47ea-8150-44128a4c51da.png)
 
-
 4. VIDEO
 
 5. CONCLUSIONES
