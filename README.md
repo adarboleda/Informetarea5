@@ -650,6 +650,8 @@ Puesto que el conmutador proporcionar una conexión eléctrica entre las escobil
 
 4. VIDEO
 
+https://youtu.be/BU65NjgAQsI
+
 5. CONCLUSIONES
 
 * Como conclusión se tiene que las ecuaciones simultáneas se componen de un conjunto de n ecuaciones que contiene n incógnitas, donde n es un número con un valor de 2 o más. Es importante que el número de ecuaciones incluidas en el conjunto sean igual al número de incógnitas. Cabe recalcar que se puede solucionar por sustitución, determinantes o mediante calculadora.
