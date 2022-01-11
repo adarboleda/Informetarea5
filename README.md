@@ -646,7 +646,8 @@ Puesto que el conmutador proporcionar una conexión eléctrica entre las escobil
 
 25. Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V el voltaje máximo.
 
-![image](https://user-images.githubusercontent.com/93733175/148501352-80deac92-a333-42fe-ae57-647ae8b4b661.png)
+![image](https://user-images.githubusercontent.com/93733175/148872507-77641f84-1f44-47ea-8150-44128a4c51da.png)
+
 
 4. VIDEO
 
